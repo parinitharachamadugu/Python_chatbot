@@ -95,7 +95,7 @@
          "patterns": ["get me news updates?", "todays news", "top headlines", "current news", "news headlines"],
          "responses": ["Getting news ..."],
 	 "context_set": "news"
-	}
+	},
 	{"tag": "timetable",
         "patterns": ["week timetable", "tell me the weekly timetable", "whats doing on this week?", "", "news headlines"],
         "responses": ["Getting news ..."],
